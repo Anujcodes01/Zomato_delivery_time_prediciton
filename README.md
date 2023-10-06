@@ -70,3 +70,7 @@ localhost:8080
 
 5. Flask App creation : 
     * Flask app is created with User Interface for single prediction and batch prediction the delivery time prediciton inside a Web Application.
+
+
+## User interface
+![WhatsApp Image 2023-10-06 at 18 21 39_5bfdff42](https://github.com/Anujdh8755/Zomato_delivery_time_prediciton/assets/114329073/09a27268-bc34-4dd6-8cf1-1cfd4f5b3d64)
