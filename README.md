@@ -43,7 +43,9 @@ Now,
 open up you local host and port
 ```
 localhost:8080
-```
+## User interface
+![Screenshot 2023-10-06 181117](https://github.com/Anujdh8755/Zomato_delivery_time_prediciton/assets/114329073/f6343900-a276-40e5-8c90-b278d37fd20a)
+
 # Approach for the project 
 
 1. Data Ingestion : 
@@ -65,12 +67,14 @@ localhost:8080
     * This pipeline converts given data into dataframe and has various functions to load pickle files and predict the final results in python .
     
 5 . Create Batch prediction :
-    * Providing csv file of input to the model is getting the batch prediction output in the csv format .
+    * The model can take a CSV file as input and generate batch predictions, with the output provided in CSV format.
 
 
 5. Flask App creation : 
     * Flask app is created with User Interface for single prediction and batch prediction the delivery time prediciton inside a Web Application.
 
 
-## User interface
-![WhatsApp Image 2023-10-06 at 18 21 39_5bfdff42](https://github.com/Anujdh8755/Zomato_delivery_time_prediciton/assets/114329073/09a27268-bc34-4dd6-8cf1-1cfd4f5b3d64)
+
+
+
+
